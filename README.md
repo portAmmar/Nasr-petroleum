@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="c:\users\engkh\Downloads\نادي-النصر-للبترول-الرياضي-بورسعيد.jpg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="imgs\نادي-النصر-للبترول-الرياضي-بورسعيد.jpg" width="400" alt="شعار نادي النصر للبترول الرياضي"></a></p>
 
 
 
@@ -21,3 +21,5 @@ details will be provided soon ...
 [//]: # (- [Real-time event broadcasting]&#40;https://laravel.com/docs/broadcasting&#41;.)
 
 This project is owned by A.G.A.S for tech solutions.
+<p align="center">img src="imgs\agaslogo-02 copy.png" width="150" alt="A.G.A.S LOGO"></p>
+
