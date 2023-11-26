@@ -20,6 +20,6 @@ details will be provided soon ...
 
 [//]: # (- [Real-time event broadcasting]&#40;https://laravel.com/docs/broadcasting&#41;.)
 
-<p align="center"><img src="https://media-hbe1-2.cdn.whatsapp.net/v/t61.24694-24/307723870_1060200694690793_3165931236535940043_n.jpg?ccb=11-4&oh=01_AdRzT88eXquizC8MkzwB27rlQRVwEh0r1c0rbnGjTiOK1g&oe=65709247&_nc_sid=e6ed6c&_nc_cat=105" width="50" alt="A.G.A.S LOGO"></p>
+<p align="left"><img src="https://media-hbe1-2.cdn.whatsapp.net/v/t61.24694-24/307723870_1060200694690793_3165931236535940043_n.jpg?ccb=11-4&oh=01_AdRzT88eXquizC8MkzwB27rlQRVwEh0r1c0rbnGjTiOK1g&oe=65709247&_nc_sid=e6ed6c&_nc_cat=105" width="50" alt="A.G.A.S LOGO"></p>
 This project is owned by A.G.A.S for tech solutions.
 
